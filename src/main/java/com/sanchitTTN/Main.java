@@ -16,7 +16,7 @@ public class Main {
     String name;
     public static void main(String[] args) throws SQLException {
         //use of lombok [provided dependency]
-        Main sample1=new Main(1,"Kunal Rawat");
+        Main sample1=new Main(1,"Sanchit Arora");
         System.out.println(sample1.getName());
 
         //use of Gson [compile time]
